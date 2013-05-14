@@ -1,4 +1,4 @@
-WordPress - Web publishing software test change next
+WordPress - Web publishing software test change for remove hook
 
 Copyright 2011 by the con  change 33333
 
