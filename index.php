@@ -7,7 +7,7 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it lizzytest.
+ * Tells WordPress to load the WordPress theme and output it lizzytest0523.
  *
  * @var bool
  */
