@@ -34,7 +34,7 @@ header('Content-Type: text/xml; charset=' . get_option('blog_charset'), true);
 <?php echo '<?xml version="1.0" encoding="'.get_option('blog_charset').'"?'.'>'; ?>
 <rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
   <service>
-    <engineName>WordPress</engineName>
+    <engineName>WordPress test</engineName>
     <engineLink>http://wordpress.org/</engineLink>
     <homePageLink><?php bloginfo_rss('url') ?></homePageLink>
     <apis>
